@@ -1,0 +1,128 @@
+body{
+font-family: "Montserrat-black";
+}
+#title-bar{
+   background-color: #CFF5E7;
+}
+#middle-bar{
+    padding:4% 15%;
+    text-align: center;
+    background-color:#ECF9FF;
+}
+.hype{
+    font-size:3rem;
+    font-weight: bolder;
+    font-family: "Montserrat-black";
+    color:darkmagenta;
+}
+.container-fluid{
+    padding: 4% 15%;
+}
+
+.dyn{
+    width:12%;
+}
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size:2.5rem;
+    font-weight: bolder;
+}
+.nav-item{
+    padding:9px;
+}
+.nav-link{
+    font-size:140%;
+    color:lightcoral;
+}
+.yup{
+    width:50%;
+}
+.fiveg{
+    width:10%;
+}
+.h3{
+    font-family:"montserrat-bold";
+}
+p{
+    color: gray;
+}
+.wifi{
+    margin:10px;
+    width:70px;
+}
+p:hover{
+    color:tomato;
+}
+#scrolling-image{
+    padding:4% 15%;
+    background-color: #CFF5E7;
+    text-align: center;
+}
+.dop{
+    padding:4% 15%;
+    width:80%;
+}
+.for{
+    text-align: center;
+}
+#before{
+    background-color: #CFF5E7;
+}
+.sell{
+    text-decoration: line-through;
+}
+.disnep{
+    width:30%;
+    position: relative;
+    right:10%;
+}
+.flip{
+    width:10%;
+    position: relative;
+    right:2%;
+}
+.vote:hover{
+    background-color:lavender;
+}
+.grip:hover{
+    background-color:tomato;
+}
+.loop{
+    text-align:center;
+}
+.kip:hover{
+    background-color: black;
+
+}
+.boop{
+    background-color:lavenderblush
+}
+
+.ak{
+    width:10%;
+    border-radius:60%;
+}
+.soon{
+    width:30px;
+}
+h4{
+    font-size:1rem;
+}
+#vote{
+    text-shadow:2px 4px 6px gold;
+}
+.no{
+    text-decoration: none;
+    font-size:1rem;
+}
+.finish{
+    margin-left:50%;
+}
+.live{
+    text-align: center;
+}
+
+
+
+
+
